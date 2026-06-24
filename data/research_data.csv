@@ -1,3 +1,5 @@
-trial_id,date,condition,resting_hr,post_exercise_hr,hr_60s,hrr,completion_time,side_notes
-1,2026-06-21,breathing,75,141,83,58,N/A,"Approx 2h after hitting with Richard, 8 hours of sleep, 0 mistakes made while skipping"
-2,2026-06-21,stress,75,144,86,58,2:17.46,"Approx 2h after hitting with Richard, 8 hours of sleep, 7 mistakes made while skipping"
+trial_id,date,condition,resting_hr,post_exercise_hr,hr_60s,hrr,completion_time,side_notes,exertion_scale,stress_scale
+1,2026-06-21,breathing,75,141,83,58,N/A,"Approx 2h after hitting with Richard, 8 hours of sleep, 0 mistakes made while skipping",6.0,3.0
+2,2026-06-21,stress,75,144,86,58,2:17.46,"Approx 2h after hitting with Richard, 8 hours of sleep, 7 mistakes made while skipping",5.5,6.5
+3,2026-06-24,calm,75,143,88,55,N/A,"8 hours of sleep; timer shut off at 50 seconds remaining, had to guess; approximately 3 hours and 30 minutes after 30 minute HIIT workout; 3 mistakes were made while skipping",5.5,3.0
+4,2026-06-24,stress,75,153,91,62,2:03.30,"8 hours of sleep; approximately 3 hours and 30 minutes after 30 minute HIIT workout; 4 mistakes were made while skipping; made a mistake when doing serial sevens test - did not end at 4, ended on 6",6.5,6.5
