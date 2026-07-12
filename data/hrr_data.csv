@@ -5,8 +5,8 @@ trial_id,date,condition,pre_hr,post_hr,hr_60s,hrr,exertion_scale,stress_scale,si
 4,2026-06-24,stress,75,153,91,62,6.5,6.5,8 hours of sleep; approximately 3 hours and 30 minutes after 30 minute HIIT workout; 4 mistakes were made while skipping; made a mistake when doing serial sevens test - did not end at 4 and ended on 6
 5,2026-06-25,calm,70,135,81,54,4.5,2.0,About 8 hours sleep maybe 8.5; 2 mistakes were made while skipping; sore in glutes from yesterday's HIIT workout; no workout or physical activity was done today
 6,2026-06-25,stress,70,134,76,58,5.0,5.5,About 8 hours sleep maybe 8.5; 5 mistakes were made while skipping; had mild cramp after making 3 mistakes at 1:30; watch took a couple seconds after skipping to give heart rate; sore in glutes from yesterday's HIIT workout; no workout or physical activity was done today
-7,2026-06-28,calm,75,147,104,43,5.5,2.5,About 8 hours of sleep; just over 1 hour after 1.5 hours of tennis; 0 mistakes were made while skipping
-8,2026-06-28,stress,73,149,103,46,0.0,5.5,About 8 hours of sleep; just over 1 hour after 1.5 hours of tennis; 0 mistakes were made while skipping
+7,2026-06-28,calm,75,147,104,43,5.0,2.5,About 8 hours of sleep; just over 1 hour after 1.5 hours of tennis; 0 mistakes were made while skipping
+8,2026-06-28,stress,73,149,103,46,5.5,5.0,About 8 hours of sleep; just over 1 hour after 1.5 hours of tennis; 0 mistakes were made while skipping
 9,2026-07-01,calm,74,140,86,54,6.0,3.0,"About 8 hours of sleep; played 1 hour of tennis about 5 hours ago; extremely warm and humid weather about 36°C, feels like 46°C; 6 mistakes were made while skipping"
 10,2026-07-01,stress,74,141,88,53,6.5,5.0,"About 8 hours of sleep; played 1 hour of tennis about 5 hours ago; extremely warm and humid weather about 36°C, feels like 46°C; 4 mistakes were made while skipping"
 11,2026-07-04,calm,74,121,87,34,5.0,3.5,About 8 hours of sleep; did fitness about 5 hours ago; 2 mistakes were made while skipping
